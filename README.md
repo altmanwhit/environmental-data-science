@@ -77,7 +77,7 @@ I keep a running weekly log of what I'm learning, building, and thinking about. 
 ## 🤝 Connect
 
 I write about environmental data science, applied ML, and AI in consulting on LinkedIn.  
-**LinkedIn:** [linkedin.com/in/whit-altman](https://linkedin.com/in/whit-altman)
+**LinkedIn:** [linkedin.com/in/Whitaltman](https://linkedin.com/in/Whitaltman)
 
 ---
 
